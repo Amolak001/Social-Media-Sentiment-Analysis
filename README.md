@@ -53,19 +53,17 @@ sentiment-analysis/
 ### Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone <repository-url>
    ```
 
 2. Install required Python libraries:
-
-  ```bash
-  pip install -r requirements.txt
+```bash
+   pip install -r requirements.txt
   ```
 
 
 3. Open and run the Jupyter Notebook:
-
   ```bash
   jupyter notebook Sentiment_Analysis.ipynb
   ```
