@@ -54,7 +54,7 @@ sentiment-analysis/
 
 1. Clone the repository:
 ```bash
-   git clone <repository-url>
+   git clone https://github.com/Amolak001/Social-Media-Sentiment-Analysis.git
    ```
 
 2. Install required Python libraries:
